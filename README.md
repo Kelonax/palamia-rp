@@ -1,0 +1,2 @@
+# palamia-rp
+Serveur rp 
